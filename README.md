@@ -1,6 +1,9 @@
 Link:
 https://vatsalgp.github.io/seasons/
 
+To make changes:
+npm run deploy
+
 ## Available Scripts
 
 In the project directory, you can run:
